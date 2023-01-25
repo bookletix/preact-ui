@@ -1,0 +1,25 @@
+{
+  "name": "preact-ui",
+  "version": "1.0.0",
+  "description": "ui bookletix",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bookletix/preact-ui.git"
+  },
+  "keywords": [
+    "bookletix"
+  ],
+  "author": "Bookletix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bookletix/preact-ui/issues"
+  },
+  "homepage": "https://github.com/bookletix/preact-ui#readme",
+  "dependencies": {
+    "preact": "^10.11.3"
+  }
+}

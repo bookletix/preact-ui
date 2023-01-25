@@ -1,0 +1,127 @@
+.ui-bx-btn-blue {
+    -webkit-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+    box-sizing: border-box;
+    font-family: inherit;
+    margin: 0;
+    overflow: visible;
+    text-transform: none;
+    display: block;
+    border: none;
+    text-align: center;
+    height: 40px;
+    border-radius: 12px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 14px;
+    touch-action: manipulation;
+    cursor: pointer;
+    white-space: nowrap;
+    outline: none;
+    padding: 0 20px;
+    transition: background-color .15s ease 0s;
+    color: #f4edfc;
+    background-color: #5e6bdf;
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button
+}
+
+.ui-bx-btn-blue:hover {
+    background-color: #4c56b2
+}
+
+.ui-bx-btn-blue:focus {
+    outline: none
+}
+
+.ui-bx-btn-purpl {
+    -webkit-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+    box-sizing: border-box;
+    font-family: inherit;
+    margin: 0;
+    overflow: visible;
+    text-transform: none;
+    display: block;
+    border: none;
+    text-align: center;
+    height: 40px;
+    border-radius: 12px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 14px;
+    touch-action: manipulation;
+    cursor: pointer;
+    white-space: nowrap;
+    outline: none;
+    padding: 0 20px;
+    transition: background-color .15s ease 0s;
+    color: #f4edfc;
+    background-color: rgb(147, 81, 230);
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button
+}
+
+.ui-bx-btn-purpl:hover {
+    background-color: rgb(117, 64, 184);
+}
+
+.ui-bx-btn-purpl:focus {
+    outline: none
+}
+
+.ui-bx-btn-white {
+    -webkit-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+    box-sizing: border-box;
+    font-family: inherit;
+    margin: 0;
+    overflow: visible;
+    text-transform: none;
+    display: block;
+    text-align: center;
+    height: 40px;
+    border-radius: 12px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 14px;
+    touch-action: manipulation;
+    cursor: pointer;
+    white-space: nowrap;
+    outline: none;
+    padding: 0 20px;
+    transition: background-color .15s ease 0s;
+    border: 1px solid #e3e3e3;
+    color: #2f2e2f;
+    background-color: #fff;
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button
+}
+
+.ui-bx-btn-white:hover {
+    background-color: #f1f1f1
+}
+
+.ui-bx-btn-white:active {
+    background-color: #e3e3e3
+}
+
+.ui-bx-btn-white:focus {
+    outline: none
+}
+
+
+.button-content {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    position: relative;
+}
